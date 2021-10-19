@@ -7,8 +7,8 @@ $windowtitle = 'UI APPNAME'
 #WITH THIS FUNCTION DEFINE $WINDOWTITLE OF THE APP YOU WANT TO SEND THE KEYS TO AND IT WILL SEND $SENDKEYS TO IT!!!
 
 #todo
-#add a read-host to replace the name of the powershell windo with cords of base
-#add the number of what code you are on to get a sence of the total.
+#add a read-host to replace the name of the powershell windo with appname for running more instances 
+#add the number of what code you are on to get a sense of the total.
 
 
 function Do-SendKeys {
